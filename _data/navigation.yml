@@ -1,39 +1,39 @@
 # Site navigation links
 
 - title: "Platform description"
-  url: https://benthic-bruvs-field-manual.github.io/platform-description
+  url: https://pelagic-bruvs-field-manual.github.io/platform-description
   excerpt: "Comparison to other sampling methods, advantages, limitations and defintions"
   image: /5x8/00_5x8.jpg
 - title: "Scope"
-  url: https://benthic-bruvs-field-manual.github.io//scope
+  url: https://pelagic-bruvs-field-manual.github.io/scope
   excerpt: "Scope for the benthic stereo-BRUVs field manual"
   image: /5x8/01_5x8.jpg
-- title: "Stereo-BRUVs in marine monitoring"
-  url: https://benthic-bruvs-field-manual.github.io//stereo-bruvs-in-marine-monitoring
+- title: "Pelagic BRUVs in marine monitoring"
+  url: https://pelagic-bruvs-field-manual.github.io//pelagic-bruvs-in-marine-monitoring
   excerpt: "Uses and history of stereo-BRUVs"
   image: /5x8/02_5x8.jpg
 - title: "Equipment"
-  url: https://benthic-bruvs-field-manual.github.io//equipment
+  url: https://pelagic-bruvs-field-manual.github.io/equipment
   excerpt: "Equipment"
   image: /5x8/03_5x8.jpg
-- title: "Pre-survey planning"
-  url: https://benthic-bruvs-field-manual.github.io//pre-survey-planning
-  excerpt: "Calibrating and pre-survey checklist"
+- title: "Pre-survey Preparations"
+  url: https://pelagic-bruvs-field-manual.github.io/pre-survey-planning
+  excerpt: "Methodology and Pre-survey checklist"
   image: /5x8/04_5x8.jpg
 - title: "Field procedures"
-  url: https://benthic-bruvs-field-manual.github.io//field-procedures
-  excerpt: "Arrival on site, deployment, retrieval, retrieval of snagged or lost BRUV and fieldwork data management"
+  url: https://pelagic-bruvs-field-manual.github.io/field-procedures
+  excerpt: "Cailbrations, Arrival on site, Deployment and Retrieval"
   image: /5x8/05_5x8.jpg
 - title: "Post-survey procedures"
-  url: https://benthic-bruvs-field-manual.github.io//post-survey-procedures
-  excerpt: "Data management, processing video footage, quality control, data curation and data release"
+  url: https://pelagic-bruvs-field-manual.github.io/post-survey-procedures
+  excerpt: "Data management, quality control, video processing and data release"
   image: /5x8/06_5x8.jpg
 - title: "Field manual maintenance"
-  url: https://benthic-bruvs-field-manual.github.io//field-manual-maintenance
+  url: https://pelagic-bruvs-field-manual.github.io/field-manual-maintenance
   excerpt: "Version control and an example metadata table"
   image: /5x8/07_5x8.jpg
 - title: "References"
-  url: https://benthic-bruvs-field-manual.github.io//references
+  url: https://pelagic-bruvs-field-manual.github.io/references
   excerpt: "Literature cited"
   image: /5x8/08_5x8.jpg
 - title: "Field Manual Homepage"
