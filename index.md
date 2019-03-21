@@ -4,7 +4,7 @@ permalink: /
 title: "Pelagic stereo BRUVs"
 excerpt: "(Baited Remote Underwater Videos)"
 image:
-  feature: /banners/00_banner1.jpg
+  feature: /banners/00_banner.jpg
 page.button1.external_url:
   url: https://www.nespmarine.edu.au/
   caption: NESP
