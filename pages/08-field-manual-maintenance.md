@@ -450,7 +450,9 @@ tuna oil, in an (8:1:1) [100g]
 </table>
 </div>
 <p>   </p>
+
 ## Equipment list   
+
 <p>   </p>
 
 Table 6.3 Example packing list. The list reflects the equipment needed to deploy pelagic BRUVs in an adaptation of Bouchet and Meeuwig (2015)'s protocol, whereby 3-5 camera units are tethered to each other on a longline (ca. 250 m) and drift with prevailing currents.
