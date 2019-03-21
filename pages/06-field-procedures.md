@@ -21,7 +21,7 @@ Stereo-BRUVs require calibration to ensure accurate length measurements. Calibra
 2. Check that all camera settings are correct (Table 6.1), batteries are full and memory cards formatted.
 3. If not already done, number each individual camera and memory card using a permanent marker, and make a note of which card is used in which camera on the data sheet. It may be useful to also number batteries and battery extension packs, to facilitate the troubleshooting of any hardware malfunctions. 
 4. Lubricate the cameras' O-rings and check them for cuts or nicks. Replace damaged O-rings as appropriate.
-5. Set up pelagic BRUV unit(s) (see Table 6.4** **for an example). Attach bait containers to bait arms and securely stack/stow equipment on deck.
+5. Set up pelagic BRUV unit(s) (see Table 6.4 for an example). Attach bait containers to bait arms and securely stack/stow equipment on deck.
 6. Discuss deployment and safety plans with captain/crew/team and deliver a copy of sampling site coordinates to the skipper.
 
 
