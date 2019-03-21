@@ -73,9 +73,7 @@ Figure 6.3 Images from key steps involved in the use of pelagic BRUVs for marine
 
 Table 6.2 Summary of studies using pelagic video systems in marine monitoring. Orientation refers to the angle of the camera(s), and can be either horizontal (forward-facing) or vertical (downward-facing). Deployments can be conducted with instruments either moored to the seafloor ('anchored'), linked to a vessel via a coaxial cable or similar ('tethered), or free drifting (as individual units or in a longline configuration). NSW: New South Wales. WA: Western Australia. Due to differences in local supply, it is difficult to identify a standardised type of baitfish. As a rule, small pelagic species with soft, oily flesh are usually recommended. For instance, sardines/pilchards (_Sardinops sagax_) have been a staple of BRUV research in Australia and New Zealand, as evidence suggests they result in consistent numbers of fish among samples (less variation), exhibit higher mean abundance among sites and are more persistent (i.e. longer time to depletion) (Dorman_ et al._ 2012). MW = mid-water. P = pelagic. S = Stereo.
 
-<table>
-  <tr>
-   <td>Authors
+<table><tr><td>Authors
    </td>
    <td>Location
    </td>
