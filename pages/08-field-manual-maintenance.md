@@ -95,7 +95,7 @@ Table 6.2 Summary of studies using pelagic video systems in marine monitoring. O
   <tr>
    <td>Heagney <em>et al.</em> (2007)
    </td>
-   <td>Lord Howe Island \
+   <td>Lord Howe Island 
 (NSW, Australia)
    </td>
    <td>🗶
@@ -116,7 +116,7 @@ Table 6.2 Summary of studies using pelagic video systems in marine monitoring. O
   <tr>
    <td>Letessier <em>et al.</em> (2013)
    </td>
-   <td>Shark Bay \
+   <td>Shark Bay 
 (WA, Australia)
    </td>
    <td>✔
@@ -137,7 +137,7 @@ Table 6.2 Summary of studies using pelagic video systems in marine monitoring. O
   <tr>
    <td>Santana <em>et al.</em> (2014a)
    </td>
-   <td>Ningaloo Reef \
+   <td>Ningaloo Reef 
 (WA, Australia)
    </td>
    <td>✔
@@ -158,7 +158,7 @@ Table 6.2 Summary of studies using pelagic video systems in marine monitoring. O
   <tr>
    <td>Santana <em>et al.</em> (2014b)
    </td>
-   <td>Coral Bay \
+   <td>Coral Bay 
 (WA, Australia)
    </td>
    <td>✔
@@ -219,7 +219,7 @@ Table 6.2 Summary of studies using pelagic video systems in marine monitoring. O
   <tr>
    <td>Schifiliti <em>et al.</em> (2014)
    </td>
-   <td>Ningaloo Reef \
+   <td>Ningaloo Reef 
 (WA, Australia)
    </td>
    <td>✔
@@ -240,7 +240,7 @@ Table 6.2 Summary of studies using pelagic video systems in marine monitoring. O
   <tr>
    <td>Bouchet & Meeuwig (2015)
    </td>
-   <td>Perth Canyon \
+   <td>Perth Canyon 
 (WA, Australia)
    </td>
    <td>✔
@@ -281,7 +281,7 @@ Table 6.2 Summary of studies using pelagic video systems in marine monitoring. O
   <tr>
    <td>Rees <em>et al.</em> (2015)
    </td>
-   <td>Jervis Bay \
+   <td>Jervis Bay 
 (NSW, Australia)
    </td>
    <td>🗶
@@ -294,8 +294,8 @@ Table 6.2 Summary of studies using pelagic video systems in marine monitoring. O
    </td>
    <td>Olfactory, visual, acoustic
    </td>
-   <td><span style="text-decoration:underline;">Visual:</span> Spearfishing 'swivel flasher'. \
-<span style="text-decoration:underline;">Acoustic:</span> Playback recording of bait fish. \
+   <td><span style="text-decoration:underline;">Visual:</span> Spearfishing 'swivel flasher'. 
+<span style="text-decoration:underline;">Acoustic:</span> Playback recording of bait fish. 
 <span style="text-decoration:underline;">Olfactory:</span> Mixture of white bread and pilchards.
    </td>
    <td>MW RUVs
@@ -326,7 +326,7 @@ tuna oil, in an (8:1:1) [100g]
   <tr>
    <td>Kempster <em>et al.</em> (2016)
    </td>
-   <td>Mossel Bay \
+   <td>Mossel Bay 
 (South Africa)
    </td>
    <td>✔
@@ -407,7 +407,7 @@ tuna oil, in an (8:1:1) [100g]
   <tr>
    <td>Ryan <em>et al.</em> (2018)
    </td>
-   <td>Mossel Bay \
+   <td>Mossel Bay 
 (South Africa)
    </td>
    <td>✔
@@ -440,7 +440,7 @@ tuna oil, in an (8:1:1) [100g]
    </td>
    <td>Olfactory, visual
    </td>
-   <td><span style="text-decoration:underline;">Visual:</span> flasher. \
+   <td><span style="text-decoration:underline;">Visual:</span> flasher. 
 <span style="text-decoration:underline;">Olfactory:</span> minced sardines [1kg]
    </td>
    <td>P BRUVs
