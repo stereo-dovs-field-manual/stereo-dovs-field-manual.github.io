@@ -454,10 +454,6 @@ tuna oil, in an (8:1:1) [100g]
 <div>     </div>
     
     
-## Equipment list   
-
-
-Table 6.3 Example packing list. The list reflects the equipment needed to deploy pelagic BRUVs in an adaptation of Bouchet and Meeuwig (2015)'s protocol, whereby 3-5 camera units are tethered to each other on a longline (ca. 250 m) and drift with prevailing currents.
 
 
 <table>
@@ -773,9 +769,19 @@ Table 6.3 Example packing list. The list reflects the equipment needed to deploy
   </tr>
 </table>
 
+## Equipment list   
+
+
+Table 6.3 Example packing list. The list reflects the equipment needed to deploy pelagic BRUVs in an adaptation of Bouchet and Meeuwig (2015)'s protocol, whereby 3-5 camera units are tethered to each other on a longline (ca. 250 m) and drift with prevailing currents.
+
+
+
+
 
 ## How to set up a pelagic BRUV
-
+<span> </span>
+<div> </div>
+ 
 
  
 Table 6.4 Example instructions for setting up a pelagic BRUV. Note that BRUV components are often made of stainless steel to prevent rusting in the marine environment. All replacement parts (e.g. spare bolts, nuts etc.) must therefore also be marine grade stainless (316).   
