@@ -1,5 +1,8 @@
 # Site navigation links
-
+- title: "Benthic BRUVs field manual home"
+  url: https://benthic-bruvs-field-manual.github.io
+  excerpt: "Authors, citation and give feedback"
+  image: /5x8/Home-blue_5x8.jpg
 - title: "Platform description"
   url: https://pelagic-bruvs-field-manual.github.io/platform-description
   excerpt: "Comparison to other sampling methods, advantages, limitations and defintions"
