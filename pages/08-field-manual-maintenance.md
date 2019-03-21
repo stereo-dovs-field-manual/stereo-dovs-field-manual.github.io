@@ -72,6 +72,7 @@ Figure 6.3 Images from key steps involved in the use of pelagic BRUVs for marine
 ## Summary of studies using pelagic video systems
 
 Table 6.2 Summary of studies using pelagic video systems in marine monitoring. Orientation refers to the angle of the camera(s), and can be either horizontal (forward-facing) or vertical (downward-facing). Deployments can be conducted with instruments either moored to the seafloor ('anchored'), linked to a vessel via a coaxial cable or similar ('tethered), or free drifting (as individual units or in a longline configuration). NSW: New South Wales. WA: Western Australia. Due to differences in local supply, it is difficult to identify a standardised type of baitfish. As a rule, small pelagic species with soft, oily flesh are usually recommended. For instance, sardines/pilchards (_Sardinops sagax_) have been a staple of BRUV research in Australia and New Zealand, as evidence suggests they result in consistent numbers of fish among samples (less variation), exhibit higher mean abundance among sites and are more persistent (i.e. longer time to depletion) (Dorman_ et al._ 2012). MW = mid-water. P = pelagic. S = Stereo.
+
 <table>
   <tr>
    <td>Authors
@@ -449,13 +450,15 @@ tuna oil, in an (8:1:1) [100g]
   </tr>
 </table>
 
-<span>   </span>
-<div>  </div>
-  
+<span>    </span>
+<div>     </div>
+    
+    
 ## Equipment list   
 
 
 Table 6.3 Example packing list. The list reflects the equipment needed to deploy pelagic BRUVs in an adaptation of Bouchet and Meeuwig (2015)'s protocol, whereby 3-5 camera units are tethered to each other on a longline (ca. 250 m) and drift with prevailing currents.
+
 
 <table>
   <tr>
@@ -773,6 +776,8 @@ Table 6.3 Example packing list. The list reflects the equipment needed to deploy
 
 ## How to set up a pelagic BRUV
 
+
+ 
 Table 6.4 Example instructions for setting up a pelagic BRUV. Note that BRUV components are often made of stainless steel to prevent rusting in the marine environment. All replacement parts (e.g. spare bolts, nuts etc.) must therefore also be marine grade stainless (316).   
 
 
@@ -962,6 +967,8 @@ Table 6.4 Example instructions for setting up a pelagic BRUV. Note that BRUV com
 
 
 ## Example metadata sheet
+
+
 
 Table 6.5 Example metadata sheet for pelagic stereo-BRUV fieldwork. Left and right memory card numbers must be recorded for each camera pair. 
 <table>
