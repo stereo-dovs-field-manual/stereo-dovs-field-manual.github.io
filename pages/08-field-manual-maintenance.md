@@ -8,6 +8,7 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
+## Field Manual Maintenance
 In accordance with the universal field manual maintenance protocol described in Chapter 1 of the Field Manual package, this manual will be updated in 2018 as Version 2. Updates will reflect user feedback and new developments (e.g. data discoverability and accessibility). Version 2 will also detail subsequent version control and maintenance.
 
  
@@ -52,13 +53,13 @@ The version control for Chapter 6 (field manual for Pelagic BRUVs) is below:
   </tr>
 </table>
 
-
+## Example species observed on pelagic BRUVs
 ![alt_text](images/image_2.jpg)
 
 
 Figure 6.2 Example species observed on pelagic BRUVs. (A) Bryde's whale _Balaenoptera brydei_, (B) Manta ray _Manta birostris_, (C) Dusky dolphin _Lagenorhynchus obscurus_, (D) Whale shark _Rhincodon typus_, (E) Dolphin fish _Coryphaena hippurus_, (F) Atlantic horse mackerel _Trachurus trachurus_, (G) Blue shark _Prionace glauca_, (H) Shortfin mako shark _Isurus oxyrinchus_, (I) Sea snake _Hydrophiidae sp._, (J) Green turtle _Chelonia mydas_, (K) Krill _Euphausia sp_., (L) Loggerhead turtle _Caretta caretta_, (M) Atlantic spotted dolphin _Stenella frontalis_, (N) Longfin yellowtail _Seriola rivoliana_, (O) Sub-Antarctic fur seal _Arctocephalus tropicalis_, (P) Yellowfin tuna _Thunnus albacares_, (Q) Pilot fish _Naucrates ductor,_ (R) Blue marlin _Makaira nigricans_, and (S) Unicorn leatherjacket _Aluterus monoceros_.
 
-
+## Key steps involved in the use of pelagic BRUVs
 ![alt_text](images/image_3.jpg)
 
 
@@ -66,6 +67,7 @@ Figure 6.3 Images from key steps involved in the use of pelagic BRUVs for marine
 
 
 
+## Summary of studies using pelagic video systems
 
 Table 6.2 Summary of studies using pelagic video systems in marine monitoring. Orientation refers to the angle of the camera(s), and can be either horizontal (forward-facing) or vertical (downward-facing). Deployments can be conducted with instruments either moored to the seafloor ('anchored'), linked to a vessel via a coaxial cable or similar ('tethered), or free drifting (as individual units or in a longline configuration). NSW: New South Wales. WA: Western Australia. Due to differences in local supply, it is difficult to identify a standardised type of baitfish. As a rule, small pelagic species with soft, oily flesh are usually recommended. For instance, sardines/pilchards (_Sardinops sagax_) have been a staple of BRUV research in Australia and New Zealand, as evidence suggests they result in consistent numbers of fish among samples (less variation), exhibit higher mean abundance among sites and are more persistent (i.e. longer time to depletion) (Dorman_ et al._ 2012). MW = mid-water. P = pelagic. S = Stereo.
 <table>
@@ -448,8 +450,8 @@ tuna oil, in an (8:1:1) [100g]
 <span>   </span>
 <div>  </div>
   
-   
-    
+## Equipment list   
+
 Table 6.3 Example packing list. The list reflects the equipment needed to deploy pelagic BRUVs in an adaptation of Bouchet and Meeuwig (2015)'s protocol, whereby 3-5 camera units are tethered to each other on a longline (ca. 250 m) and drift with prevailing currents.
 <table>
   <tr>
@@ -765,7 +767,7 @@ Table 6.3 Example packing list. The list reflects the equipment needed to deploy
 </table>
 
 
-
+## How to set up a pelagic BRUV
 
 Table 6.4 Example instructions for setting up a pelagic BRUV. Note that BRUV components are often made of stainless steel to prevent rusting in the marine environment. All replacement parts (e.g. spare bolts, nuts etc.) must therefore also be marine grade stainless (316).   
 
@@ -955,7 +957,7 @@ Table 6.4 Example instructions for setting up a pelagic BRUV. Note that BRUV com
 
 
 
-
+## Example metadata sheet
 
 Table 6.5 Example metadata sheet for pelagic stereo-BRUV fieldwork. Left and right memory card numbers must be recorded for each camera pair. 
 <table>
