@@ -7,115 +7,115 @@ image:
   feature: /banners/09_banner.jpg
 ---
 
-    Althaus, F., N. Hill, R. Ferrari, L. Edwards, R. Przeslawski, C. H. Schönberg, R. Stuart-Smith, N. Barrett, G. Edgar, and J. Colquhoun. 2015. A standardised vocabulary for identifying benthic biota and substrata from underwater imagery: the CATAMI classification scheme. PLoS ONE 10:e0141039.
+Althaus, F., N. Hill, R. Ferrari, L. Edwards, R. Przeslawski, C. H. Schönberg, R. Stuart-Smith, N. Barrett, G. Edgar, and J. Colquhoun. 2015. A standardised vocabulary for identifying benthic biota and substrata from underwater imagery: the CATAMI classification scheme. PLoS ONE 10:e0141039.
 </p>
 <p>
 
-    Axenrot, T., T. Didrikas, C. Danielsson, and S. Hansson. 2004. Diel patterns in pelagic fish behaviour and distribution observed from a stationary, bottom-mounted, and upward-facing transducer. ICES Journal of Marine Science: Journal du Conseil 61:1100-1104.
+Axenrot, T., T. Didrikas, C. Danielsson, and S. Hansson. 2004. Diel patterns in pelagic fish behaviour and distribution observed from a stationary, bottom-mounted, and upward-facing transducer. ICES Journal of Marine Science: Journal du Conseil 61:1100-1104.
 </p>
 <p>
 
-    Bouchet, P. J. and J. J. Meeuwig. 2015. Drifting baited stereo-videography: A novel sampling tool for surveying pelagic wildlife in offshore marine reserves. Ecosphere 6:art137.
+Bouchet, P. J. and J. J. Meeuwig. 2015. Drifting baited stereo-videography: A novel sampling tool for surveying pelagic wildlife in offshore marine reserves. Ecosphere 6:art137.
 </p>
 <p>
 
-    Bouchet, P. J., J. J. Meeuwig, Z. Huang, C. Phillips, S. D. Foster, and R. Przeslawski. 2017. Comparative assessment of pelagic sampling platforms: Final report., Canberra, Australia.
+Bouchet, P. J., J. J. Meeuwig, Z. Huang, C. Phillips, S. D. Foster, and R. Przeslawski. 2017. Comparative assessment of pelagic sampling platforms: Final report., Canberra, Australia.
 </p>
 <p>
 
-    Boutros, N., M. R. Shortis, and E. S. Harvey. 2015. A comparison of calibration methods and system configurations of underwater stereo‐video systems for applications in marine ecology. Limnology and Oceanography: Methods 13:224-236.
+Boutros, N., M. R. Shortis, and E. S. Harvey. 2015. A comparison of calibration methods and system configurations of underwater stereo‐video systems for applications in marine ecology. Limnology and Oceanography: Methods 13:224-236.
 </p>
 <p>
 
-    Coghlan, A., D. McLean, E. Harvey, and T. Langlois. 2017. Does fish behaviour bias abundance and length information collected by baited underwater video? Journal of Experimental Marine Biology and Ecology 497:143-151.
+Coghlan, A., D. McLean, E. Harvey, and T. Langlois. 2017. Does fish behaviour bias abundance and length information collected by baited underwater video? Journal of Experimental Marine Biology and Ecology 497:143-151.
 </p>
 <p>
 
-    Delacy, C. R., A. Olsen, L. A. Howey, D. D. Chapman, E. J. Brooks, and M. E. Bond. 2017. Affordable and accurate stereo-video system for measuring dimensions underwater: A case study using oceanic whitetip sharks <em>Carcharhinus longimanus</em>. Marine Ecology Progress Series 574:75-84.
+Delacy, C. R., A. Olsen, L. A. Howey, D. D. Chapman, E. J. Brooks, and M. E. Bond. 2017. Affordable and accurate stereo-video system for measuring dimensions underwater: A case study using oceanic whitetip sharks <em>Carcharhinus longimanus</em>. Marine Ecology Progress Series 574:75-84.
 </p>
 <p>
 
-    Díaz-Gil, C., S. L. Smee, L. Cotgrove, G. Follana-Berná, H. Hinz, P. Marti-Puig, A. Grau, M. Palmer, and I. A. Catalán. 2017. Using stereoscopic video cameras to evaluate seagrass meadows nursery function in the Mediterranean. Marine Biology 164:137.
+Díaz-Gil, C., S. L. Smee, L. Cotgrove, G. Follana-Berná, H. Hinz, P. Marti-Puig, A. Grau, M. Palmer, and I. A. Catalán. 2017. Using stereoscopic video cameras to evaluate seagrass meadows nursery function in the Mediterranean. Marine Biology 164:137.
 </p>
 <p>
 
-    Dorman, S. R., E. S. Harvey, and S. J. Newman. 2012. Bait effects in sampling coral reef fish assemblages with stereo-BRUVs. PLoS ONE 7:e41538.
+Dorman, S. R., E. S. Harvey, and S. J. Newman. 2012. Bait effects in sampling coral reef fish assemblages with stereo-BRUVs. PLoS ONE 7:e41538.
 </p>
 <p>
 
-    Dunlop, K. M., E. Marian Scott, D. Parsons, and D. M. Bailey. 2014. Do agonistic behaviours bias baited remote underwater video surveys of fish? Marine Ecology 36:810-818.
+Dunlop, K. M., E. Marian Scott, D. Parsons, and D. M. Bailey. 2014. Do agonistic behaviours bias baited remote underwater video surveys of fish? Marine Ecology 36:810-818.
 </p>
 <p>
 
-    Espinoza, M., M. Cappo, M. R. Heupel, A. J. Tobin, and C. A. Simpfendorfer. 2014. Quantifying shark distribution patterns and species-habitat associations: Implications of marine park zoning. PLoS ONE 9:e106885.
+Espinoza, M., M. Cappo, M. R. Heupel, A. J. Tobin, and C. A. Simpfendorfer. 2014. Quantifying shark distribution patterns and species-habitat associations: Implications of marine park zoning. PLoS ONE 9:e106885.
 </p>
 <p>
 
-    Friedlander, A. M., J. E. Caselle, E. Ballesteros, E. K. Brown, A. Turchik, and E. Sala. 2014. The real bounty: Marine biodiversity in the Pitcairn Islands. PLoS ONE 9:e100142.
+Friedlander, A. M., J. E. Caselle, E. Ballesteros, E. K. Brown, A. Turchik, and E. Sala. 2014. The real bounty: Marine biodiversity in the Pitcairn Islands. PLoS ONE 9:e100142.
 </p>
 <p>
 
-    Fukuba, T., T. Miwa, S. Watanabe, N. Mochioka, Y. Yamada, M. Miller, M. Okazaki, T. Kodama, H. Kurogi, S. Chow, and K. Tsukamoto. 2015. A new drifting underwater camera system for observing spawning Japanese eels in the epipelagic zone along the West Mariana Ridge. Fisheries Science 81:235-246.
+Fukuba, T., T. Miwa, S. Watanabe, N. Mochioka, Y. Yamada, M. Miller, M. Okazaki, T. Kodama, H. Kurogi, S. Chow, and K. Tsukamoto. 2015. A new drifting underwater camera system for observing spawning Japanese eels in the epipelagic zone along the West Mariana Ridge. Fisheries Science 81:235-246.
 </p>
 <p>
 
-    Goetze, J., S. Jupiter, T. Langlois, S. Wilson, E. Harvey, T. Bond, and W. Naisilisili. 2015. Diver operated video most accurately detects the impacts of fishing within periodically harvested closures. Journal of Experimental Marine Biology and Ecology 462:74-82.
+Goetze, J., S. Jupiter, T. Langlois, S. Wilson, E. Harvey, T. Bond, and W. Naisilisili. 2015. Diver operated video most accurately detects the impacts of fishing within periodically harvested closures. Journal of Experimental Marine Biology and Ecology 462:74-82.
 </p>
 <p>
 
-    Harvey, E. S., M. Cappo, J. J. Butler, N. Hall, and G. A. Kendrick. 2007. Bait attraction affects the performance of remote underwater video stations in assessment of demersal fish community structure. Marine Ecology Progress Series 350:245-254.
+Harvey, E. S., M. Cappo, J. J. Butler, N. Hall, and G. A. Kendrick. 2007. Bait attraction affects the performance of remote underwater video stations in assessment of demersal fish community structure. Marine Ecology Progress Series 350:245-254.
 </p>
 <p>
 
-    Harvey, E. S. and M. R. Shortis. 1998. Calibration stability of an underwater stereo-video system: Implications for measurement accuracy and precision. Marine Technology Society Journal 32:3-17.
+Harvey, E. S. and M. R. Shortis. 1998. Calibration stability of an underwater stereo-video system: Implications for measurement accuracy and precision. Marine Technology Society Journal 32:3-17.
 </p>
 <p>
 
-    Heagney, E. C., T. P. Lynch, R. C. Babcock, and I. M. Suthers. 2007. Pelagic fish assemblages assessed using mid-water baited video: Standardising fish counts using bait plume size. Marine Ecology Progress Series 350:255-266.
+Heagney, E. C., T. P. Lynch, R. C. Babcock, and I. M. Suthers. 2007. Pelagic fish assemblages assessed using mid-water baited video: Standardising fish counts using bait plume size. Marine Ecology Progress Series 350:255-266.
 </p>
 <p>
 
-    Juhel, J. B., L. Vigliola, D. Mouillot, M. Kulbicki, T. B. Letessier, J. J. Meeuwig, and L. Wantiez. In press. Reef accessibility impairs the protection of sharks. Journal of Applied Ecology.
+Juhel, J. B., L. Vigliola, D. Mouillot, M. Kulbicki, T. B. Letessier, J. J. Meeuwig, and L. Wantiez. In press. Reef accessibility impairs the protection of sharks. Journal of Applied Ecology.
 </p>
 <p>
 
-    Kempster, R. M., C. A. Egeberg, N. S. Hart, L. Ryan, L. Chapuis, C. C. Kerr, C. Schmidt, C. Huveneers, E. Gennari, K. E. Yopak, J. J. Meeuwig, and S. P. Collin. 2016. How close is too close? The effect of a non-lethal electric shark deterrent on white shark behaviour. PLoS ONE 11:e0157717.
+Kempster, R. M., C. A. Egeberg, N. S. Hart, L. Ryan, L. Chapuis, C. C. Kerr, C. Schmidt, C. Huveneers, E. Gennari, K. E. Yopak, J. J. Meeuwig, and S. P. Collin. 2016. How close is too close? The effect of a non-lethal electric shark deterrent on white shark behaviour. PLoS ONE 11:e0157717.
 </p>
 <p>
 
-    Kiszka, J. J., J. Mourier, K. Gastrich, and M. R. Heithaus. 2016. Using unmanned aerial vehicles (UAVs) to investigate shark and ray densities in a shallow coral lagoon. Marine Ecology Progress Series 560:237-242.
+Kiszka, J. J., J. Mourier, K. Gastrich, and M. R. Heithaus. 2016. Using unmanned aerial vehicles (UAVs) to investigate shark and ray densities in a shallow coral lagoon. Marine Ecology Progress Series 560:237-242.
 </p>
 <p>
 
-    Langlois, T. J. 2017. Habitat-annotation-of-forward-facing- benthic-imagery: R code and user manual version 1.0.1.
+Langlois, T. J. 2017. Habitat-annotation-of-forward-facing- benthic-imagery: R code and user manual version 1.0.1.
 </p>
 <p>
 
-    Langlois, T. J., E. S. Harvey, and J. J. Meeuwig. 2012. Strong direct and inconsistent indirect effects of fishing found using stereo-video: Testing indicators from fisheries closures. Ecological Indicators 23:524-534.
+Langlois, T. J., E. S. Harvey, and J. J. Meeuwig. 2012. Strong direct and inconsistent indirect effects of fishing found using stereo-video: Testing indicators from fisheries closures. Ecological Indicators 23:524-534.
 </p>
 <p>
 
-    Letessier, T., S. Kawaguchi, R. King, J. Meeuwig, R. Harcourt, and M. Cox. 2013a. A robust and economical underwater stereo video system to observe Antarctic krill (<em>Euphausia superba</em>). Open Journal of Marine Science 3:148-153.
+Letessier, T., S. Kawaguchi, R. King, J. Meeuwig, R. Harcourt, and M. Cox. 2013a. A robust and economical underwater stereo video system to observe Antarctic krill (<em>Euphausia superba</em>). Open Journal of Marine Science 3:148-153.
 </p>
 <p>
 
-    Letessier, T., J. Meeuwig, M. Gollock, L. Groves, P. Bouchet, L. Chapuis, G. Vianna, K. Kemp, and H. Koldewey. 2013b. Assessing pelagic fish and shark populations: The application of demersal techniques to the mid-water. Methods in Oceanography 8:41-55.
+Letessier, T., J. Meeuwig, M. Gollock, L. Groves, P. Bouchet, L. Chapuis, G. Vianna, K. Kemp, and H. Koldewey. 2013b. Assessing pelagic fish and shark populations: The application of demersal techniques to the mid-water. Methods in Oceanography 8:41-55.
 </p>
 <p>
 
-    Letessier, T. B., P. J. Bouchet, and J. J. Meeuwig. 2017. Sampling mobile oceanic fishes and sharks: Implications for fisheries and conservation planning. Biological Reviews 92:627-646.
+Letessier, T. B., P. J. Bouchet, and J. J. Meeuwig. 2017. Sampling mobile oceanic fishes and sharks: Implications for fisheries and conservation planning. Biological Reviews 92:627-646.
 </p>
 <p>
 
-    Letessier, T. B., P. J. Bouchet, J. Reisser, and J. J. Meeuwig. 2014. Baited videography reveals remote foraging and migration behaviour of sea turtles. Marine Biodiversity:DOI 10.1007/s12526-12014-10287-12523.
+Letessier, T. B., P. J. Bouchet, J. Reisser, and J. J. Meeuwig. 2014. Baited videography reveals remote foraging and migration behaviour of sea turtles. Marine Biodiversity:DOI 10.1007/s12526-12014-10287-12523.
 </p>
 <p>
 
-    Letessier, T. B., J.-B. Juhel, L. Vigliola, and J. J. Meeuwig. 2015. Low-cost small action cameras in stereo generates accurate underwater measurements of fish. Journal of Experimental Marine Biology and Ecology 466:120-126.
+Letessier, T. B., J.-B. Juhel, L. Vigliola, and J. J. Meeuwig. 2015. Low-cost small action cameras in stereo generates accurate underwater measurements of fish. Journal of Experimental Marine Biology and Ecology 466:120-126.
 </p>
 <p>
 
-    Lowry, M., H. Folpp, M. Gregson, and R. Mckenzie. 2011. A comparison of methods for estimating fish assemblages associated with estuarine artificial reefs. Brazilian Journal of Oceanography 59:119-131.
+Lowry, M., H. Folpp, M. Gregson, and R. Mckenzie. 2011. A comparison of methods for estimating fish assemblages associated with estuarine artificial reefs. Brazilian Journal of Oceanography 59:119-131.
 </p>
 <p>
 
