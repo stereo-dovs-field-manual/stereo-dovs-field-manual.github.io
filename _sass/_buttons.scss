@@ -9,16 +9,16 @@
 .btn {
 	display: inline-block;
 	padding: 8px 20px;
-	@include font-size(14);
+	@include font-size(16);
 	font-family: $alt-font;
-	background-color: $primary-color;
-	color: $white;
+	background-color: #117dbd;
+	color: #ffffff;
 	text-decoration: none;
 	border: 0 !important;
 	border-radius: 10 * $border-radius;
 	@include transition(background 0.2s, border 0.2s);
 	&:hover {
-		color: $white;
+		color: #ffffff;
 		background-color: lighten($primary-color, 10);
 	}
 	&:active {
