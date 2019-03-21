@@ -9,6 +9,7 @@ image:
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
 ## Field Manual Maintenance
+
 In accordance with the universal field manual maintenance protocol described in Chapter 1 of the Field Manual package, this manual will be updated in 2018 as Version 2. Updates will reflect user feedback and new developments (e.g. data discoverability and accessibility). Version 2 will also detail subsequent version control and maintenance.
 
  
@@ -60,6 +61,7 @@ The version control for Chapter 6 (field manual for Pelagic BRUVs) is below:
 Figure 6.2 Example species observed on pelagic BRUVs. (A) Bryde's whale _Balaenoptera brydei_, (B) Manta ray _Manta birostris_, (C) Dusky dolphin _Lagenorhynchus obscurus_, (D) Whale shark _Rhincodon typus_, (E) Dolphin fish _Coryphaena hippurus_, (F) Atlantic horse mackerel _Trachurus trachurus_, (G) Blue shark _Prionace glauca_, (H) Shortfin mako shark _Isurus oxyrinchus_, (I) Sea snake _Hydrophiidae sp._, (J) Green turtle _Chelonia mydas_, (K) Krill _Euphausia sp_., (L) Loggerhead turtle _Caretta caretta_, (M) Atlantic spotted dolphin _Stenella frontalis_, (N) Longfin yellowtail _Seriola rivoliana_, (O) Sub-Antarctic fur seal _Arctocephalus tropicalis_, (P) Yellowfin tuna _Thunnus albacares_, (Q) Pilot fish _Naucrates ductor,_ (R) Blue marlin _Makaira nigricans_, and (S) Unicorn leatherjacket _Aluterus monoceros_.
 
 ## Key steps involved in the use of pelagic BRUVs
+
 ![alt_text](images/image_3.jpg)
 
 
@@ -452,7 +454,9 @@ tuna oil, in an (8:1:1) [100g]
   
 ## Equipment list   
 
+
 Table 6.3 Example packing list. The list reflects the equipment needed to deploy pelagic BRUVs in an adaptation of Bouchet and Meeuwig (2015)'s protocol, whereby 3-5 camera units are tethered to each other on a longline (ca. 250 m) and drift with prevailing currents.
+
 <table>
   <tr>
    <td>Item description
