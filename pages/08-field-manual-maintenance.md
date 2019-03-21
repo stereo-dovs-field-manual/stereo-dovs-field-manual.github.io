@@ -53,24 +53,13 @@ The version control for Chapter 6 (field manual for Pelagic BRUVs) is below:
 </table>
 
 
-
-
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Field-Manuals3.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Field-Manuals3.jpg "image_tooltip")
+![alt_text](images/image_2.jpg)
 
 
 Figure 6.2 Example species observed on pelagic BRUVs. (A) Bryde's whale _Balaenoptera brydei_, (B) Manta ray _Manta birostris_, (C) Dusky dolphin _Lagenorhynchus obscurus_, (D) Whale shark _Rhincodon typus_, (E) Dolphin fish _Coryphaena hippurus_, (F) Atlantic horse mackerel _Trachurus trachurus_, (G) Blue shark _Prionace glauca_, (H) Shortfin mako shark _Isurus oxyrinchus_, (I) Sea snake _Hydrophiidae sp._, (J) Green turtle _Chelonia mydas_, (K) Krill _Euphausia sp_., (L) Loggerhead turtle _Caretta caretta_, (M) Atlantic spotted dolphin _Stenella frontalis_, (N) Longfin yellowtail _Seriola rivoliana_, (O) Sub-Antarctic fur seal _Arctocephalus tropicalis_, (P) Yellowfin tuna _Thunnus albacares_, (Q) Pilot fish _Naucrates ductor,_ (R) Blue marlin _Makaira nigricans_, and (S) Unicorn leatherjacket _Aluterus monoceros_.
 
 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Field-Manuals4.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Field-Manuals4.jpg "image_tooltip")
+![alt_text](images/image_3.jpg)
 
 
 Figure 6.3 Images from key steps involved in the use of pelagic BRUVs for marine monitoring. (A) Using a calibration cube in an enclosed pool environment. (B) Once set up, the gear can be easily stacked and stowed on deck. (C) Example of a GoPro camera turned on before deployment. (D) Relevant metadata can be recorded on waterproof paper. (E) Pelagic BRUVs are versatile and can be deployed manually from a variety of platforms ranging in size from small rigid inflatables to large research vessels. (F) Maintaining visual contact with the gear is key to avoiding equipment loss. Should the deployment vessel need to leave the site (e.g. to support additional activities), a VHF transmitter can be used to re-locate the gear. (G) Flags and brightly coloured buoys help locate the equipment for recovery. (H) Videos are typically downloaded and backed up at the end of each sampling day. (I) Processing and analysis of the imagery occur in a computer lab post-survey.
