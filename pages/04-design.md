@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /design
-title: "Equipment"
+title: "Stereo-DOV design"
 excerpt: ""
 image:
   feature: /banners/04_banner.jpg
