@@ -8,13 +8,7 @@ layout: home
 
 ---
 
-
 Our understanding of fish ecology and our ability to best manage fish populations requires accurate data on diversity, abundance and size. Visual surveys by SCUBA divers have become a widely used method to collect data on coastal fish assemblages [(Edgar & Stuart-Smith, 2014)](https://paperpile.com/c/4hIsZv/DZcN+gdUl+xKfk). Underwater visual census (UVC), where a diver identifies and counts fishes within a predefined area [(Brock, 1954)](https://paperpile.com/c/4hIsZv/WwBQ) or distance based sampling [(Kulbicki & Sarramégna, 1999)](https://paperpile.com/c/RsmHLu/s6WA), is a logistically simple, non-destructive, and usually cost-effective method of surveying fish. However, the effectiveness of UVC for reliable long-term monitoring is influenced by inter-observer variability [(Thompson & Mapstone, 1998)](https://paperpile.com/c/4hIsZv/84OX) and inaccuracies in estimating the length of fish and sample areas [(Harvey, Fletcher, & Shortis, 2001; Harvey et al., 2004)](https://paperpile.com/c/4hIsZv/s5qs+7tNa). In addition, the simultaneous identification, counting and size estimation of fish requires extensive training and experience (Williams et al., 2006). These limitations can be overcome or reduced through the incorporation of stereo-video into UVC surveys, i.e. diver operated stereo-video (stereo-DOV, Fig.1).
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/DOV-Manuscript0.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![alt_text](images/DOV-Manuscript0.jpg "image_tooltip")
 A SCUBA diver conducting a stereo-DOV survey at Mo’orea, French Polynesia (photo courtesy of Lauric Thiault)
