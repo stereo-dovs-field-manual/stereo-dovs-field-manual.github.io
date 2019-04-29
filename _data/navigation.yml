@@ -1,8 +1,4 @@
 # Site navigation links
-- title: "Stereo-DOVs home"
-  url: https://stereo-dovs-field-manual.github.io/
-  excerpt: "Authors and citation"
-  image: /5x8/Home-blue_5x8.jpg
 - title: "Summary"
   url: https://stereo-dovs-field-manual.github.io/summary
   excerpt: ""
